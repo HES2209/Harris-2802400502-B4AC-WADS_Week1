@@ -136,6 +136,7 @@ AI is always on, available around the clock, and delivers consistent performance
 Reduced physical risk
 By automating dangerous work such as animal control, handling explosives, performing tasks in deep ocean water, high altitudes or in outer space, AI can eliminate the need to put human workers at risk of injury or worse. While they have yet to be perfected, self-driving cars and other vehicles offer the potential to reduce the risk of injury to passengers.
 
+<<<<<<< HEAD
 AI use cases 
 The real-world applications of AI are many. Here is just a small sampling of use cases across various industries to illustrate its potential:
 
@@ -203,6 +204,8 @@ Weak AI: Also known as “narrow AI,” defines AI systems designed to perform a
 
 Strong AI: Also known as “artificial general intelligence” (AGI) or “general AI,” possess the ability to understand, learn and apply knowledge across a wide range of tasks at a level equal to or surpassing human intelligence. This level of AI is currently theoretical and no known AI systems approach this level of sophistication. Researchers argue that if AGI is even possible, it requires major increases in computing power. Despite recent advances in AI development, self-aware AI systems of science fiction remain firmly in that realm.
 
+=======
+>>>>>>> experiment
 History of AI 
 The idea of "a machine that thinks" dates back to ancient Greece. But since the advent of electronic computing (and relative to some of the topics discussed in this article) important events and milestones in the evolution of AI include the following:
 
