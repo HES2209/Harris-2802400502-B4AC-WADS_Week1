@@ -4,6 +4,7 @@
 - StudentID : 2802400502
 - Link : https://www.ibm.com/think/topics/artificial-intelligence
 - Year : 2024
+- Title : What is artificial intelligence (AI)?
 
 What is AI? 
 Artificial intelligence (AI) is technology that enables computers and machines to simulate human learning, comprehension, problem solving, decision making, creativity and autonomy.
